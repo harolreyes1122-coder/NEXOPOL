@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Flor de NexoPol">
+<rect width="512" height="512" rx="116" fill="#fff5cd"/>
+<g transform="translate(251 241)">
+<path d="M5 55 C-6 124 -2 180 7 210" fill="none" stroke="#266e43" stroke-width="19" stroke-linecap="round"/>
+<path d="M1 138 C-20 100 -76 104 -94 117 C-78 150 -38 174 1 154Z" fill="#4a9654"/>
+<path d="M8 169 C42 129 83 134 108 145 C94 183 47 198 8 183Z" fill="#6aab55"/>
+<g fill="#ffbf13" stroke="#d99a02" stroke-width="2">
+<ellipse cx="0" cy="-80" rx="34" ry="69"/><ellipse cx="0" cy="80" rx="34" ry="69"/>
+<ellipse cx="80" cy="0" rx="69" ry="34"/><ellipse cx="-80" cy="0" rx="69" ry="34"/>
+<ellipse transform="rotate(45)" cx="0" cy="-80" rx="34" ry="69"/>
+<ellipse transform="rotate(45)" cx="0" cy="80" rx="34" ry="69"/>
+<ellipse transform="rotate(-45)" cx="0" cy="-80" rx="34" ry="69"/>
+<ellipse transform="rotate(-45)" cx="0" cy="80" rx="34" ry="69"/>
+</g><circle r="39" fill="#fffdf1" stroke="#f9e6a1" stroke-width="5"/>
+</g></svg>
